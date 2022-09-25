@@ -1,2 +1,2 @@
 # mykola-zavoritnii-CV
-my CV
+This is my CV

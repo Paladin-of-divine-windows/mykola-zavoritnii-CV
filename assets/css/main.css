@@ -493,7 +493,12 @@ a.back-to-top:hover, a.back-to-top:focus {
   margin-bottom: 0px !important;
 }
 
-.top-nav-collapse .navbar-nav .nav-link:hover {
+.top-nav-collapse .navbar-nav .nav-link .fuck-off-vadim:hover {
+  cursor: pointer;
+  color: #00b4d9 !important;
+}
+
+.fuck-off-vadim {
   cursor: pointer;
   color: #00b4d9 !important;
 }

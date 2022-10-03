@@ -498,10 +498,17 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #00b4d9 !important;
 }
 
-.fuck-off-vadim {
+/* .fuck-off-vadim {
   cursor: pointer;
   color: #00b4d9 !important;
-}
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+  line-height:inherit;
+  white-space:nowrap
+} */
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
   color: #00b4d9 !important;
